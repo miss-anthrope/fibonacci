@@ -3,8 +3,7 @@
 # THE MATH IN THIS PROGRAM RUNS MORE ACCURATELY.
 '''
 Capstone project - UDemy python bootcamp
-This program is meant to generate fibonacci numbers up to 500.
-There are depth recursion problems with larger numbers.
+This is a basic program designed to generate the Fibonacci sequence up to n.
 '''
 
 def fibnums(n):
