@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# THE MATH IN THIS PROGRAM RUNS MORE ACCURATELY.
 '''
 Capstone project - UDemy python bootcamp
 This program is meant to generate fibonacci numbers up to 500.
